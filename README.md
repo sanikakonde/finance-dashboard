@@ -40,21 +40,37 @@ Charts are connected directly to the transaction data, so any change is reflecte
 
 # Features
 Dashboard Summary
+
 Shows total balance, total income, and total expenses in a simple and clear format.
+
 Balance Trend Chart
+
 A line chart that displays how the balance changes over time, helping users understand financial trends.
+
 Spending Breakdown
+
 A pie chart that shows how expenses are divided across different categories.
+
 Add Transaction
+
 Users can add new income or expense entries by filling out a simple form.
+
 Delete Transaction
+
 Any transaction can be removed easily using the delete button.
+
 Transactions Table
+
 Displays all transactions with details like date, amount, category, and type.
+
 Search / Filter
+
 Allows users to filter transactions based on category for quick access.
+
 Role-Based UI (Admin / Viewer)
+
 Admin can add and delete transactions
+
 Viewer can only view data
 This is implemented on the frontend for demonstration.
 Insights Section
