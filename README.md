@@ -1,11 +1,11 @@
-# 💰 Finance Dashboard
+# Finance Dashboard
 
 A simple and interactive finance dashboard built to help users track their income, expenses, and overall balance.  
 The goal of this project is to present financial data in a clear and easy-to-understand way using charts and tables.
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 **Step 1: Clone the repository**  
 git clone https://github.com/your-username/finance-dashboard.git  
@@ -24,7 +24,7 @@ http://localhost:5173
 
 ---
 
-## 🧠 Overview of Approach
+## Overview of Approach
 
 **Simple and clean structure**  
 The application is divided into different sections like summary cards, charts, transaction form, and transaction list to keep everything organized.
