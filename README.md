@@ -1,8 +1,8 @@
-💰 Finance Dashboard
+# Finance Dashboard
 
 A simple and interactive finance dashboard built to help users track their income, expenses, and overall balance. The goal of this project is to present financial data in a clear and easy-to-understand way using charts and tables.
 
-🚀 Setup Instructions
+# Setup Instructions
 
 To run this project on your system, follow these steps:
 
@@ -19,7 +19,7 @@ http://localhost:5173
 
 That’s it — the dashboard should now be running locally.
 
-🧠 Overview of Approach
+# Overview of Approach
 
 While building this project, the main focus was to keep things simple, clear, and easy to use.
 
@@ -29,7 +29,7 @@ React state is used to store and update all the data such as transactions, selec
 
 Charts are connected directly to the transaction data, so any change is reflected visually as well. Instead of adding unnecessary complexity, the goal was to build a clean and functional dashboard that demonstrates proper handling of UI and data.
 
-✨ Features
+# Features
 Dashboard Summary
 Shows total balance, total income, and total expenses in a simple and clear format.
 Balance Trend Chart
