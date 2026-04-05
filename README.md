@@ -94,26 +94,9 @@ Charts automatically update based on transaction data, helping users visualize t
 
 ### Role-Based UI (Admin / Viewer)  
 
-**Admin**  
-- Can add transactions  
-- Can delete transactions  
-
-**Viewer**  
-- Can only view data  
-
----
-
-### Insights Section  
-- Shows highest spending category  
-- Displays total number of transactions  
-
----
-
-##  Notes
-
-- This project uses mock/static data  
-- No backend is used  
-- Focus is on frontend design and functionality  
+- Admin can add and delete transactions
+- Viewer can only view data
+- This is implemented on the frontend for demonstration.  
 
 ---
 
