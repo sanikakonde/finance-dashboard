@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+Sanika Konde
 # finance-dashboard
 =======
 # React + Vite
