@@ -7,14 +7,23 @@ A simple and interactive finance dashboard built to help users track their incom
 To run this project on your system, follow these steps:
 
 First, download or clone the project:
+
 git clone https://github.com/your-username/finance-dashboard.git
+
 Go inside the project folder:
+
 cd finance-dashboard
-Install all required dependencies:
+
+Install all required dependencies
+
 npm install
+
 Start the development server:
+
 npm run dev
+
 Open your browser and visit:
+
 http://localhost:5173
 
 That’s it — the dashboard should now be running locally.
