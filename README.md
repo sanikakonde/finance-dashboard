@@ -11,7 +11,6 @@ First, download or clone the project:
 git clone https://github.com/your-username/finance-dashboard.git
 
 Go inside the project folder:
-
 cd finance-dashboard
 
 Install all required dependencies
